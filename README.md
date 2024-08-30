@@ -41,6 +41,7 @@
 5. [Are Traditional Neural Networks Well-Calibrated?](https://ieeexplore.ieee.org/document/8851962/)
 6. [Conformal prediction sets for ordinal classification](https://www.amazon.science/publications/conformal-prediction-sets-for-ordinal-classification)
 7. [Regression Compatible Listwise Objectives for Calibrated Ranking with Binary Relevance](https://arxiv.org/abs/2211.01494) Google, 2023
+8. [LiRank: Industrial Large Scale Ranking Models at LinkedIn](https://arxiv.org/abs/2402.06859) (2024)
 
 ## Video
 1. [PS3:Calibrated recommendations Harold Steck](https://www.youtube.com/watch?v=AlsPvceHVj4) 
