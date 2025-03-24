@@ -45,5 +45,16 @@
 9. [AUC: a misleading measure of the performance of predictive distribution models](https://www2.unil.ch/biomapper/Download/Lobo-GloEcoBioGeo-2007.pdf) (2007)
 
 ## Video
-1. [PS3:Calibrated recommendations Harold Steck](https://www.youtube.com/watch?v=AlsPvceHVj4) 
+1. [PS3:Calibrated recommendations Harold Steck](https://www.youtube.com/watch?v=AlsPvceHVj4)
+
+## Python
+1. [Calibration of Probability Outputs for Classifiers](https://github.com/DIDSR/calzone)
+2. [scores: Metrics for the verification, evaluation and optimisation of forecasts, predictions or models](https://github.com/nci/scores) [paper](https://joss.theoj.org/papers/10.21105/joss.06889)
+3. [reliability_diagram](https://github.com/hollance/reliability-diagrams)
+4. [classifier-calibration](https://github.com/zygmuntz/classifier-calibration)
+5. [PyCalib](https://classifier-calibration.github.io/PyCalib/)
+6. [Library for the Test-based Calibration Error (TCE) metric to quantify the degree to classifier calibration.](https://github.com/facebookresearch/tce)
+7. [Website for the Classifier calibration tutorial, ECML-PKDD 2020](https://github.com/classifier-calibration/classifier-calibration.github.io)
+8. [net:cal - Uncertainty Calibration](https://github.com/EFS-OpenSource/calibration-framework)
+
 
