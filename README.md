@@ -34,7 +34,7 @@
 
 ## Papers
 
-1. [Properties and Benefits of Calibrated Classifiers](https://link.springer.com/chapter/10.1007/978-3-540-30116-5_14)
+1. [Properties and Benefits of Calibrated Classifiers](https://link.springer.com/chapter/10.1007/978-3-540-30116-5_14) by Ira Cohen & Moises Goldszmidt (2004)
 2. [An Empirical Comparison of Supervised Learning Algorithms](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf&ved=2ahUKEwj0ur3J45eIAxV6SkEAHUAoFqcQFnoECBYQAQ&usg=AOvVaw0SrLGauMRWXLRpSEDeMAsg)
 3. [On Calibration of Modern Neural Networks](https://arxiv.org/pdf/2303.10761)
 4. [A Conformal Prediction Approach to Enhance Predictive Accuracy and Confidence in Machine Learning Application in Chronic Diseases](https://pubmed.ncbi.nlm.nih.gov/39176913/)
