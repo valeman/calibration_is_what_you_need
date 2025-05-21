@@ -51,6 +51,7 @@
 1. [PS3:Calibrated recommendations Harold Steck](https://www.youtube.com/watch?v=AlsPvceHVj4)
 
 ## Python
+1. [PyCalEva - A framework for calibration evaluation of binary classification models](https://github.com/MartinWeigl/pycaleva)
 1. [Calibration of Probability Outputs for Classifiers](https://github.com/DIDSR/calzone)
 2. [scores: Metrics for the verification, evaluation and optimisation of forecasts, predictions or models](https://github.com/nci/scores) [paper](https://joss.theoj.org/papers/10.21105/joss.06889)
 3. [reliability_diagram](https://github.com/hollance/reliability-diagrams)
