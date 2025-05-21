@@ -60,5 +60,6 @@
 6. [Library for the Test-based Calibration Error (TCE) metric to quantify the degree to classifier calibration.](https://github.com/facebookresearch/tce)
 7. [Website for the Classifier calibration tutorial, ECML-PKDD 2020](https://github.com/classifier-calibration/classifier-calibration.github.io)
 8. [net:cal - Uncertainty Calibration](https://github.com/EFS-OpenSource/calibration-framework)
+9. [relplot: Principled Reliability Diagrams](https://github.com/apple/ml-calibration)
 
 
