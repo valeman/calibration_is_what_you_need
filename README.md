@@ -44,8 +44,7 @@
 8. [LiRank: Industrial Large Scale Ranking Models at LinkedIn](https://arxiv.org/abs/2402.06859) (2024)
 9. [AUC: a misleading measure of the performance of predictive distribution models](https://www2.unil.ch/biomapper/Download/Lobo-GloEcoBioGeo-2007.pdf) (2007)
 10. [Towards a Rigorous Calibration Assessment Framework: Advancements in Metrics, Methods](https://ebooks.iospress.nl/doi/10.3233/FAIA230327) by  Famiglini, Andrea Campagner, Federico Cabitza (Universiteta degli Studi di Milano-Bicocca, Milan, Italy; Istituto Ortopedico Galeazzi, Milan, Italy, 2023) [code](https://github.com/lorenzofamiglini/CalFram)
-11. [Don’t Just Blame Over-parametrization for Over-confidence:
-Theoretical Analysis of Calibration in Binary Classification](https://arxiv.org/abs/2102.07856)
+11. [Don’t Just Blame Over-parametrization for Over-confidence: Theoretical Analysis of Calibration in Binary Classification](https://arxiv.org/abs/2102.07856) (2021)
 
 ## Articles
 1. [Calibrating Classifiers in Reality](https://abnormalsecurity.com/blog/calibrating-classifiers-in-reality)
